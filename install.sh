@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash -e
 
 # Install zsh
 if [ "$(uname)" == "Darwin" ]; then
