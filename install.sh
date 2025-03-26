@@ -39,4 +39,4 @@ else
 fi
 
 # Switch to zsh
-exec zsh
+chsh -s $(which zsh)
